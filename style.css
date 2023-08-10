@@ -90,34 +90,37 @@ small{
         
     }
     .kira{
-        width: 300px;
-        margin: 10px;
+        width: 250px;
+        margin: 15px;
 
     }
     .Jonathan{
-        width: 300px;
-        margin: 10px;
+        width: 250px;
+        margin: 15px;
 
     }
     .abrams{
-        width: 300px;
-        margin: 10px;
+        width: 250px;
+        margin: 15px;
 
     }
     .harmon{
-        width: 300px;
-        margin: 10px;
+        width: 250px;
+        margin: 15px;
 
     }
     .clifford{
-        width: 300px;
-        margin: 10px;
+        width: 250px;
+        margin: 15px;
 
     }
     p{
-        font-size: 25px;
+        font-size: 15px;
     }
     h3{
         font-size: 20px;
+    }
+    .kira p {
+        font-size: 15px;
     }
 }
